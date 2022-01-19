@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1642367919 source:c:\users\mikiz\onedrive\pulpit\sortowania\sortowanie\main.cpp
+	<iostream>
+	<math.h>
+	<time.h>
+	<windows.h>
+
